@@ -13,6 +13,6 @@ SQL project to analyze online music store data.
 
 ## Music Store Database Schema  
 
-![Database Schema]('C:\Users\DELL\Downloads\MusicDatabaseSchema')
+![Database Schema]('C:/Users/DELL/Downloads/MusicDatabaseSchema')
 
 
